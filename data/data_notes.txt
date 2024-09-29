@@ -1,0 +1,38 @@
+Resources
+
+SAMSHA - National Survey on Drug Use and Health (NSDUH)
+https://www.samhsa.gov/data/report/nsduh-2024-methodological-resource-book-mrb
+
+CDC - National Immunization Survey (NIS)
+https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NIS/NISPUF14_DUG.PDF
+
+CDC -  National Health and Nutrition Examination Survey (NHANES)
+
+CDC - National Health Interview Survey (NHIS)
+https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2023/srvydesc-508.pdf
+ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2018/srvydesc.pdf
+
+NBER - Current Population Survey (CPS)
+https://data.bls.gov/timeseries/LNU09300000&from_year=1994&output_type=column
+
+
+AHRQ - Medical Expenditure Panel Survey,Household Component (MEPS-HC)
+https://meps.ahrq.gov/mepsweb/survey_comp/hc_response_rate.jsp
+
+conditional = unconditional / nhis prior year
+
+
+NORC - General Social Survey (GSS)
+https://gss.norc.org/content/dam/gss/get-documentation/pdf/codebook/GSS_Codebook_AppendixA.pdf
+
+
+
+Notes on which rates are used:
+For NHIS, the household module
+For NHANES, the personal interview, conditional on selection into the sample following
+completion of the household screening interview
+For NIS, the household interview, conditional on having an age-eligible child, as determined from a screening interview, for the landline telephone sample
+For NSDUH, the household screening interview
+For MEPS, the initial interview, conditional on completion of the prior year NHIS
+household interview
+For the CPS, the March labor force interview
