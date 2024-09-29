@@ -40,20 +40,21 @@ The eight surveys included in this analysis are:
 
 
 ## Data Sources
-- NSDUH: https://www.samhsa.gov/data/report/nsduh-2024-methodological-resource-book-mrb
-
-- NIS: https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NIS/NISPUF14_DUG.PDF
+- NHIS: https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2023/srvydesc-508.pdf
 
 - NHANES: https://wwwn.cdc.gov/nchs/nhanes/responserates.aspx
 
-- NHIS: https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2023/srvydesc-508.pdf
+- NIS: https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NIS/NISPUF14_DUG.PDF
 
-- CPS: https://data.bls.gov/timeseries/LNU09300000&from_year=1994&output_type=column
+- NSDUH: https://www.samhsa.gov/data/report/nsduh-2024-methodological-resource-book-mrb
 
 - MEPS: https://meps.ahrq.gov/mepsweb/survey_comp/hc_response_rate.jsp
 
+- CPS: https://data.bls.gov/timeseries/LNU09300000&from_year=1994&output_type=column
 
 - GSS: https://gss.norc.org/content/dam/gss/get-documentation/pdf/codebook/GSS_Codebook_AppendixA.pdf
+
+- ACS: https://www.census.gov/acs/www/methodology/sample-size-and-data-quality/response-rates/
 
 
 
