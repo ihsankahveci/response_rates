@@ -57,4 +57,7 @@ The eight surveys included in this analysis are:
 - ACS: https://www.census.gov/acs/www/methodology/sample-size-and-data-quality/response-rates/
 
 
+## Bibliography  
+Czajka, John L., and Amy Beyler. "Background paper declining response rates in federal surveys: Trends and implications." Mathematica policy research 1 (2016): 1-86.
+
 
