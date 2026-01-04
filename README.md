@@ -58,6 +58,6 @@ The eight surveys included in this analysis are:
 
 
 ## Bibliography  
-Czajka, John L., and Amy Beyler. "Background paper declining response rates in federal surveys: Trends and implications." Mathematica policy research 1 (2016): 1-86.
+Czajka, John L, and Amy Beyler. “Background Paper Declining Response Rates in Federal Surveys: Trends and Implications.” Mathematica Policy Research, vol. 1, 2016, pp. 1–86, https://aspe.hhs.gov/sites/default/files/private/pdf/255531/Decliningresponserates.pdf.
 
 
